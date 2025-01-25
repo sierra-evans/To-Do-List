@@ -4,9 +4,7 @@ This is a C++ program that is designed to be a To-Do List. It allows the user to
 
 My purpose for writing this software was for it to be a beginner project in C++. This served as my first foray into C++ and it helped me to greatly understand the basics of the language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TW4IGBmHb2c)
 
 # Development Environment
 
