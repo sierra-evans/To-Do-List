@@ -20,7 +20,6 @@ struct Task
 // Declares a vector called tasks that will hold all Task structures created by the user.
 vector<Task> tasks;
 
-
 // Function that loads tasks from the file.
 void loadTasks()
 {
